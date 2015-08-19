@@ -5,7 +5,7 @@ require 'jquery/dateandtimepicker/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'jquery-dateandtimepicker-rails'
-  spec.version       = Jquery::Datetimepicker::Rails::VERSION
+  spec.version       = Jquery::Dateandtimepicker::Rails::VERSION
   spec.authors       = ['ksarunas']
   spec.email         = ['sarjalis@gmail.com']
   spec.description   = %q{A date and time picker for jQuery and Rails}
