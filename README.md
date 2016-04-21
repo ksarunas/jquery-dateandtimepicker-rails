@@ -9,7 +9,7 @@ jQuery Date and Time picker plugin version: `v2.5.3`
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-dateandtimepicker-rails', '~> 1.0.1'
+    gem 'jquery-dateandtimepicker-rails', '~> 1.0.2'
 
 And then execute:
 
