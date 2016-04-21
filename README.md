@@ -5,11 +5,11 @@ jQuery Date and Time picker for rails
 
 [![Gem Version](https://badge.fury.io/rb/jquery-dateandtimepicker-rails.svg)](http://badge.fury.io/rb/jquery-dateandtimepicker-rails)
 
-jQuery Date and Time picker plugin version: `v2.4.5`
+jQuery Date and Time picker plugin version: `v2.5.3`
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-dateandtimepicker-rails', '~> 1.0.0'
+    gem 'jquery-dateandtimepicker-rails', '~> 1.0.1'
 
 And then execute:
 
